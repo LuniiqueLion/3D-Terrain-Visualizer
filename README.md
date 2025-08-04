@@ -1,5 +1,3 @@
-<img width="908" height="591" alt="image" src="https://github.com/user-attachments/assets/56c68193-ad5d-48ca-b8db-0228d1d8d871" /># 3D Terrain Visualizer
-
 An interactive 3D terrain visualizer built from scratch in Python using matrix rotation, custom projection logic, and Perlin noise.
 
 ## Features
