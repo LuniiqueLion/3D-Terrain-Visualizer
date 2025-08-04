@@ -1,3 +1,4 @@
+## Description
 An interactive 3D terrain visualizer built from scratch in Python using matrix rotation, custom projection logic, and Perlin noise.
 
 ## Features
